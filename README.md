@@ -75,4 +75,4 @@ Then open the project notebook file and execute the cells step by step.
 
 Pasupathi Ramesh, B-Tech.
 
-   
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasupathi-r-14b7692b9/)
